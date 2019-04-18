@@ -1,6 +1,6 @@
 # OOP-Lab5-6
 
-MASTER C++5
+MASTER C++
 You are very passionate about programing (otherwise you wouldn’t be here, reading this) and C++ is a language so close to your heart. On your way to becoming a C++ guru, you study a lot and watch many tutorials. To make sure you do not miss any good tutorials, you absolutely need a software application to help you manage your tutorials and create watch lists. The application can be used in two modes: administrator and user. When the application is started, it will offer the option to choose the mode.
 
 Administrator mode: The application will have a database6, which holds all the tutorials. You must be able to update the database, meaning: add a new tutorial, delete a tutorial and update the information of a tutorial. Each Tutorial has a title, a presenter (name of the presenter person), a duration (minutes and seconds), a number of likes and a link towards the online resource containing the tutorial. The administrators will also have the option to see all the tutorials in the database.
